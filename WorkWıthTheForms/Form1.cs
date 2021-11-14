@@ -16,7 +16,7 @@ namespace WorkWıthTheForms
         {
             InitializeComponent();
         }
-
+       
         private void button1_Click(object sender, EventArgs e)
         {
             О_программе op = new О_программе();
@@ -27,7 +27,7 @@ namespace WorkWıthTheForms
         {
             Сообщение s = new Сообщение();
             s.ShowDialog();
-           // msg.Text = "Message: " + 
+            msg.Text = "Message: " + s.m;
         }
     }
 }

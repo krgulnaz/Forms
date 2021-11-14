@@ -16,10 +16,10 @@ namespace WorkWıthTheForms
         {
             InitializeComponent();
         }
-
+        public string m = String.Empty;
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            this.m = this.textBox1.Text;
             this.Close();
         }
     }
