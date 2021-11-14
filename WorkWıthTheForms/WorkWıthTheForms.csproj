@@ -54,6 +54,18 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="О программе.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="О программе.Designer.cs">
+      <DependentUpon>О программе.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Сообщение.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Сообщение.Designer.cs">
+      <DependentUpon>Сообщение.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -66,6 +78,12 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="О программе.resx">
+      <DependentUpon>О программе.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Сообщение.resx">
+      <DependentUpon>Сообщение.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>

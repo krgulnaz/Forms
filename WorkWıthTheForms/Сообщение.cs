@@ -10,24 +10,17 @@ using System.Windows.Forms;
 
 namespace WorkWıthTheForms
 {
-    public partial class Form1 : Form
+    public partial class Сообщение : Form
     {
-        public Form1()
+        public Сообщение()
         {
             InitializeComponent();
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
-            О_программе op = new О_программе();
-            op.ShowDialog();
-        }
-
-        private void button2_Click(object sender, EventArgs e)
-        {
-            Сообщение s = new Сообщение();
-            s.ShowDialog();
-           // msg.Text = "Message: " + 
+            
+            this.Close();
         }
     }
 }
