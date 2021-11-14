@@ -1,0 +1,12 @@
+E:\Projects\TaskGitHub\WorkWıthTheForms\WorkWıthTheForms\obj\Debug\WorkWıthTheForms.csprojAssemblyReference.cache
+E:\Projects\TaskGitHub\WorkWıthTheForms\WorkWıthTheForms\obj\Debug\WorkWıthTheForms.Form1.resources
+E:\Projects\TaskGitHub\WorkWıthTheForms\WorkWıthTheForms\obj\Debug\WorkWıthTheForms.Properties.Resources.resources
+E:\Projects\TaskGitHub\WorkWıthTheForms\WorkWıthTheForms\obj\Debug\WorkWıthTheForms.О_программе.resources
+E:\Projects\TaskGitHub\WorkWıthTheForms\WorkWıthTheForms\obj\Debug\WorkWıthTheForms.Сообщение.resources
+E:\Projects\TaskGitHub\WorkWıthTheForms\WorkWıthTheForms\obj\Debug\WorkWıthTheForms.csproj.GenerateResource.cache
+E:\Projects\TaskGitHub\WorkWıthTheForms\WorkWıthTheForms\obj\Debug\WorkWıthTheForms.csproj.CoreCompileInputs.cache
+E:\Projects\TaskGitHub\WorkWıthTheForms\WorkWıthTheForms\bin\Debug\WorkWıthTheForms.exe.config
+E:\Projects\TaskGitHub\WorkWıthTheForms\WorkWıthTheForms\bin\Debug\WorkWıthTheForms.exe
+E:\Projects\TaskGitHub\WorkWıthTheForms\WorkWıthTheForms\bin\Debug\WorkWıthTheForms.pdb
+E:\Projects\TaskGitHub\WorkWıthTheForms\WorkWıthTheForms\obj\Debug\WorkWıthTheForms.exe
+E:\Projects\TaskGitHub\WorkWıthTheForms\WorkWıthTheForms\obj\Debug\WorkWıthTheForms.pdb
